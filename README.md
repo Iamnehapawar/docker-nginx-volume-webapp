@@ -93,15 +93,15 @@ Changes made in the host directory were instantly reflected in the browser witho
 ##  Screenshots Guide (Very Important)
 
 Home Page: http://EC2-Public-IP/home.html  
-![](./img/home-page-bind-mount.png)
+![](./img/home-page.png)
 
 Login Page: http://EC2-Public-IP/login.html
-![](./img/login-page-bind-mount.png)
+![](./img/login-page.png)
 
 Mobile Page: http://EC2-Public-IP/mobile.html
-![](./img/mobile-page-bind-mount.png)
+![](./img/mobile-pag.png)
 
-![](./img/output-bind-mount.png)
+![](./img/output.png)
 ---
 
 ##  Key Concept: Docker Bind Mount
