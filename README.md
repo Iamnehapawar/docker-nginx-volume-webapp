@@ -90,7 +90,7 @@ Changes made in the host directory were instantly reflected in the browser witho
 
 ---
 
-##  Screenshots Guide (Very Important)
+##  Screenshots Guide
 
 Home Page: http://EC2-Public-IP/home.html  
 ![](./img/home-page.png)
@@ -137,10 +137,10 @@ Mobile Page: http://EC2-Public-IP/mobile.html
 ---
 
 ##  Sharing Platforms
- GitHub : Iamnehapawar
-
- Medium : Neha pawar
-
- LinkedIn : https://www.linkedin.com/in/neha-pawar-3ba4a131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
+GitHub Repository
+
+Medium Article
+
+LinkedInProfile
