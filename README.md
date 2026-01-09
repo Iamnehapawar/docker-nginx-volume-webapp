@@ -143,4 +143,4 @@ GitHub Repository
 
 Medium Article
 
-LinkedInProfile
+LinkedIn
